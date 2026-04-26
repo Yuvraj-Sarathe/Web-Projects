@@ -120,7 +120,7 @@ Survey Form/
 Includes social links:
 - **GitHub:** @Yuvraj-Sarathe
 - **LinkedIn:** Yuvraj Sarathe
-- **LeetCode:** @Mikky_mlh
+- **LeetCode:** @Yuvraj_Sarathe
 
 ---
 
