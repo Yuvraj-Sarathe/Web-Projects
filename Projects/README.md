@@ -2,7 +2,7 @@
 
 freeCodeCamp Responsive Web Design certification projects - deployed and production-ready.
 
-**Main Portfolio:** https://mikky-mlh.github.io/Web-Projects/
+**Main Portfolio:** https://Yuvraj-Sarathe.github.io/Web-Projects/
 
 ---
 
@@ -79,7 +79,7 @@ code {
 Unlike typical documentation pages, this project combines technical reference material with portfolio presentation, showcasing both frontend development skills and the ability to document complex technical work professionally.
 
 ### View Project
-- **🔗 Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Documentation%20Project/
+- **🔗 Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Documentation%20Project/
 - **📁 Source Code:** index.html | style.css | Documentation
 
 ---
@@ -132,7 +132,7 @@ input:valid:not(:placeholder-shown) {
 - **Mobile:** Fully functional on small screens with adjusted padding
 
 ### View Project
-- **🔗 Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Survey%20Form/
+- **🔗 Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Survey%20Form/
 - **📁 Source Code:** [index.html](./Survey%20Form/index.html) | [style.css](./Survey%20Form/style.css)
 
 ---
@@ -199,7 +199,7 @@ img:hover {
 - **Mobile (480px):** Single column, stacked layouts, optimized typography
 
 ### View Project
-- **🔗 Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Tribute%20Page/
+- **🔗 Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Tribute%20Page/
 - **📁 Source Code:** [index.html](./Tribute%20Page/index.html) | [style.css](./Tribute%20Page/style.css)
 
 ---
@@ -263,7 +263,7 @@ function openModal(modalId) {
 - **Mobile (≤768px):** Stacked layouts, vertical form, single-column cards
 
 ### View Project
-- **🔗 Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Product%20Landing%20Page/
+- **🔗 Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Product%20Landing%20Page/
 - **📁 Source Code:** [index.html](./Product%20Landing%20Page/index.html) | [style.css](./Product%20Landing%20Page/style.css)
 - **📖 Full Documentation:** [README.md](./Product%20Landing%20Page/README.md)
 
@@ -317,7 +317,7 @@ All projects are deployed using **GitHub Pages**, providing:
 - ✅ Fast global CDN delivery
 - ✅ Easy updates via Git push
 
-**Main Portfolio:** https://mikky-mlh.github.io/Web-Projects/
+**Main Portfolio:** https://Yuvraj-Sarathe.github.io/Web-Projects/
 
 ---
 

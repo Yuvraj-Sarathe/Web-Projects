@@ -2,7 +2,7 @@
 
 **Status:** ✅ Completed & Deployed  
 **Completion Date:** December 8, 2025  
-**Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Tribute%20Page/
+**Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Tribute%20Page/
 
 ---
 

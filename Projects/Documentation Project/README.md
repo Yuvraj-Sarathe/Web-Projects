@@ -2,7 +2,7 @@
 
 **Status:** ✅ Production-Ready & Deployed  
 **Last Updated:** January 2026  
-**Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Documentation%20Project/
+**Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Documentation%20Project/
 
 ---
 

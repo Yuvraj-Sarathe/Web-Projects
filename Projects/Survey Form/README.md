@@ -2,7 +2,7 @@
 
 **Status:** ✅ Completed & Deployed  
 **Completion Date:** November 29, 2025  
-**Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Survey%20Form/
+**Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Survey%20Form/
 
 ---
 
@@ -118,7 +118,7 @@ Survey Form/
 ## 📝 Footer
 
 Includes social links:
-- **GitHub:** @mikky-mlh
+- **GitHub:** @Yuvraj-Sarathe
 - **LinkedIn:** Yuvraj Sarathe
 - **LeetCode:** @Mikky_mlh
 

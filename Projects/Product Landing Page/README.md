@@ -2,7 +2,7 @@
 
 **Status:** ✅ Completed & Deployed  
 **Completion Date:** December 24, 2025  
-**Live Demo:** https://mikky-mlh.github.io/Web-Projects/Projects/Product%20Landing%20Page/
+**Live Demo:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Product%20Landing%20Page/
 
 ---
 
@@ -399,7 +399,7 @@ button.closest('.pricing-card').classList.add('featured');
 ## 🚀 Deployment
 
 **Platform:** GitHub Pages  
-**URL:** https://mikky-mlh.github.io/Web-Projects/Projects/Product%20Landing%20Page/
+**URL:** https://Yuvraj-Sarathe.github.io/Web-Projects/Projects/Product%20Landing%20Page/
 
 **Deployment process:**
 1. Push code to GitHub repository
